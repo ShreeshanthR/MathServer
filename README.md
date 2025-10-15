@@ -98,6 +98,7 @@ math.html
 </style>
 </head>
 <body>
+    <h2 >Shreeshanth R - 25012265</h2>
     <div class="edge">
         <div class="box">
             <h1>BMI Calculator</h1>
@@ -156,7 +157,7 @@ def calculate_bmi(request):
 ```
 
 ## SERVER SIDE PROCESSING:
-![alt text](<Screenshot (22).png>)
+![alt text](<Screenshot (46).png>)
 
 ## HOMEPAGE:
 ![alt text](<Screenshot (23).png>)
