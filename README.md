@@ -157,7 +157,7 @@ def calculate_bmi(request):
 ```
 
 ## SERVER SIDE PROCESSING:
-![alt text](<Screenshot (46).png>)
+![alt text](<Screenshot (47).png>)
 
 ## HOMEPAGE:
 ![alt text](<Screenshot (23).png>)
